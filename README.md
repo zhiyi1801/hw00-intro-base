@@ -5,6 +5,17 @@
 </p>
 <p align="center">(source: Ken Perlin)</p>
 
+## Submission
+Vertex shader:
+
+- Distortion via FBM
+
+Fragment shader:
+
+- Perlin Noise
+- Worley Noise
+- Custom Shader
+
 ## Objective
 - Check that the tools and build configuration we will be using for the class works.
 - Start learning Typescript and WebGL2
