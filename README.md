@@ -5,6 +5,11 @@
 </p>
 <p align="center">(source: Ken Perlin)</p>
 
+<p align="center">
+  <img width="360" height="360" src="./imgs/1.gif">
+</p>
+<p align="center"></p>
+
 ## Submission
 Vertex shader:
 
@@ -15,6 +20,8 @@ Fragment shader:
 - Perlin Noise
 - Worley Noise
 - Custom Shader
+### Live Demo
+https://zhiyi1801.github.io/hw00-intro-base/
 
 ## Objective
 - Check that the tools and build configuration we will be using for the class works.
