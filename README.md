@@ -6,7 +6,7 @@
 <p align="center">(source: Ken Perlin)</p>
 
 <p align="center">
-  <img width="360" height="360" src="./imgs/1.gif">
+  <img width="360" height="360" src=".\imgs\1.gif">
 </p>
 <p align="center"></p>
 
