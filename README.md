@@ -17,9 +17,14 @@ Rather than cloning the homework repository, please __fork__ the code into your 
 
 1. [Install Node.js](https://nodejs.org/en/download/). Node.js is a JavaScript runtime. It basically allows you to run JavaScript when not in a browser. For our purposes, this is not necessary. The important part is that with it comes `npm`, the Node Package Manager. This allows us to easily declare and install external dependencies such as [dat.GUI](https://workshop.chromeexperiments.com/examples/gui/#1--Basic-Usage), and [glMatrix](http://glmatrix.net/).
 
-2. Using a command terminal, run `npm install` in the root directory of your project. This will download all of those dependencies.
+```
+fnm env --use-on-cd | Out-String | Invoke-Expression
+fnm use --install-if-missing 16
+```
 
-3. Do either of the following (but we highly recommend the first one for reasons we will explain later).
+1. Using a command terminal, run `npm install` in the root directory of your project. This will download all of those dependencies.
+
+2. Do either of the following (but we highly recommend the first one for reasons we will explain later).
 
     a. Run `npm start` and then go to `localhost:5660` in your web browser
 
