@@ -71,6 +71,7 @@ To check if everything is on the right track:
 3. Submit the link to your pull request on Canvas, and add a comment to your submission with a hyperlink to your live demo.
 4. Include a link to your live site.
 
+
 ## Resources
 - Javascript modules https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
 - Typescript https://www.typescriptlang.org/docs/home.html
